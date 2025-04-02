@@ -242,4 +242,4 @@ class DeadlockGUI extends JFrame {
         SwingUtilities.invokeLater(DeadlockGUI::new);
     }
 }
-// done with the code the 
+// done with the code the main
